@@ -4,16 +4,18 @@
   text-align: center;
 }
 .button{
-  height: 50px;
-  margin-bottom: 50px;
+  height: 80px;
+  margin-bottom: 45px;
   cursor: pointer;
+  background-color: burlywood;
 }
 
 .dice {
   text-align: center;
   display: inline-block;
-
 }
+
+
 
 body {
   background-color: #393E46;
